@@ -1,4 +1,4 @@
-# Boilterplate Next.js + Sass + Tailwind CSS
+# Boilterplate NextJS + Sass + Tailwind CSS
 
 I use this stack for my works (mostly). You can use this boilerplate if you want
 
